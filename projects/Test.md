@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Hawaii News Now Logo.png
+image: img/Hawaii News Now Logo.jpeg
 title: "Test"
 date: 2015-08-01
 published: true

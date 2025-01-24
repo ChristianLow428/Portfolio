@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Hawaii News Now Logo.png
 title: "Test"
 date: 2015-08-01
 published: true

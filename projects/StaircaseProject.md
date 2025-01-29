@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: staircase.jpg
 title: "Staircase Project"
 date: 2024
 published: true

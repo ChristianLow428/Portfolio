@@ -14,6 +14,7 @@ summary: "Created a program that works with string manipuation to take in user d
 
 <div class="d-flex justify-content-center">
     <img class="img-fluid" src="../img/StaircaseOutcome.png" style="width: 300px; height: auto;">
+  
 </div>
 
 

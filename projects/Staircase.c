@@ -5,7 +5,6 @@
  * staircase format.
  * 
  * @author     Low, Christian
- * @assignment ICS 212 Assignment 15
  * @date       October 29, 2024
  */
 

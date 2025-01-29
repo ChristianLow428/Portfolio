@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: staircase.jpg
+image: img/staircase.jpg
 title: "Staircase Project"
 date: 2024
 published: true

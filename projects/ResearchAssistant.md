@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: research assistant.jpg
+image: img/research assistant.jpg
 title: "Research Assistant"
 date: 2024
 published: true

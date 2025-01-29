@@ -13,7 +13,7 @@ summary: "Assisted in a research project looking at the quality of code produced
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../projects/ChatGPT.jpg" style="width: 400px; height: 400px; object-fit: cover;">
+    <img class="img-fluid" src="../projects/ChatGPT.jpg" style="width: 300px; height: 300px; object-fit: cover;">
 </div>
 
 

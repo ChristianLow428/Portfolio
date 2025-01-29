@@ -6,34 +6,16 @@ title: "Staircase Project"
 date: 2024
 published: true
 labels:
-  - Research
-  - GitHub
-  - Java
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - C
+  - Personal Project
+  - 
+summary: "Created a program that works with string manipuation to take in user defined input and calculate them and check for equality."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+Working on this assignment significantly improved my understanding of C, particularly in string manipulation and memory handling. Through this project, I learned how to declare and initialize character arrays and pointers to store strings efficiently. Calculating the lengths of my first and last names using strlen() reinforced my knowledge of how strings are stored and accessed in memory.  The staircase and reverse staircase output formatting provided me with valuable practice in nested loops, demonstrating how to manipulate text output effectively. Working with functions such as tolower() and toupper() from ctype.h showed me how to perform character-wise transformations in an efficient and readable manner.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This assignment also strengthened my debugging and problem-solving skills. Initially, I encountered issues with pointer usage when trying to modify string literals, which helped me understand the distinction between mutable character arrays and immutable string literals. Additionally, formatting the staircase outputs required careful attention to loop structure and whitespace management, reinforcing my understanding of iteration logic. The toggle-case staircase for the last name was particularly interesting, as it challenged me to apply conditional logic within loops to modify output dynamically. By completing this task, I gained confidence in handling character arrays, pointer manipulation, and structured output formatting, all of which are essential for more advanced programming in C.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-Here is some code that illustrates how we read values from the line sensors:
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).

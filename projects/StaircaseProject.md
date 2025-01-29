@@ -9,7 +9,6 @@ labels:
   - C
   - Calculator
 summary: "Created a program with string manipulations on user-defined first and last name, including calculating their lengths and comparing them for equality in a staircase format.
----
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 

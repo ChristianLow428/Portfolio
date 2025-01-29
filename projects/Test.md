@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/Hawaii News Now.jpg
-title: "Test"
-date: 2015-08-01
+title: "Hawaii News Now Speaker"
+date: 2023-9-12
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Public Speaking
+  - News
+  - Disabilities
+summary: "Raising awareness about disabilities in technology, as demonstrated by appearance as a speaker on Hawaii News Now."
 ---
 
 <div class="text-center p-4">

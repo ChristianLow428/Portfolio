@@ -11,8 +11,9 @@ labels:
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../img/TypeScriptImage.jpg" style="width: 300px; height: auto;">
+    <img class="img-fluid" src="../img/TypeScriptImage.jpg" style="width: 300px; height: 300px; object-fit: cover;">
 </div>
+
 
 
 ## Intro to Typescript

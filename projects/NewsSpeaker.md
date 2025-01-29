@@ -12,28 +12,20 @@ labels:
 summary: "Raising awareness about disabilities in technology, as demonstrated by appearance as a speaker on Hawaii News Now."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+<div class="d-flex justify-content-center">
+    <img class="img-fluid" src="../projects/NewsSpeaker.png" style="width: 300px; height: auto;">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+In September 2023, I had the opportunity to speak on Hawaii News Now, where I discussed the pressing issues surrounding disabilities in technology, with a focus on the esports and tech industries. The segment provided a platform to raise awareness about the challenges individuals with disabilities face when navigating these spaces. I highlighted how current technology often overlooks the needs of disabled individuals and emphasized the importance of creating more inclusive solutions. By sharing personal insights and professional perspectives, I aimed to spark a conversation about the need for better accessibility and design in the world of esports, technology, and gaming.
 
-Here is some code that illustrates how we read values from the line sensors:
+The appearance served as an important moment in advocating for inclusivity, where I discussed not only the barriers but also the tremendous opportunities for growth in the esports and tech through accessibility. I stressed the potential for companies to expand their audiences. My goal was to encourage both companies and individuals within the industry to recognize the value of inclusivity and to promote a more equitable environment where everyone can participate, and enjoy themselves in the esports and tech communities.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+<div class="portfolio-item">
+    <p>Check out my appearance on Hawaii News Now discussing inclusivity in esports and technology:</p>
+    <a href="https://www.hawaiinewsnow.com/video/2023/09/12/university-hawaii-esports-creates-space-that-welcomes-diversity-students/" target="_blank">
+        Hawaii News Now - University of Hawaii Esports Creates Space That Welcomes Diversity
+    </a>
+</div>
+

@@ -13,7 +13,7 @@ summary: "Raising awareness about disabilities in technology, as demonstrated by
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../projects/NewsSpeaker.png" style="width: 300px; height: auto;">
+    <img class="img-fluid" src="../projects/NewsSpeaker.png" style="width: 400px; height: auto;">
 </div>
 
 

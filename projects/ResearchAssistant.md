@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: research assistant.jpg
 title: "Research Assistant"
 date: 2024
 published: true

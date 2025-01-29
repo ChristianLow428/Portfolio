@@ -12,8 +12,9 @@ labels:
 summary: "Created a program that works with string manipuation to take in user defined input and calculate them and check for equality."
 ---
 
-<img src="img/Screenshot-2025-01-29-at-02.15.39.png" class="img-thumbnail" width="200px" alt="Screenshot">
-
+<div class="text-center p-4">
+  <img width="200px" src="img/StaircaseOutcome.png" class="img-thumbnail">
+</div>
 
 
 Working on this assignment significantly improved my understanding of C, particularly in string manipulation and memory handling. Through this project, I learned how to declare and initialize character arrays and pointers to store strings efficiently. Calculating the lengths of my first and last names using strlen() reinforced my knowledge of how strings are stored and accessed in memory.  The staircase and reverse staircase output formatting provided me with valuable practice in nested loops, demonstrating how to manipulate text output effectively. Working with functions such as tolower() and toupper() from ctype.h showed me how to perform character-wise transformations in an efficient and readable manner.

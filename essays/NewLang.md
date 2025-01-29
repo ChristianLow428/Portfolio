@@ -10,7 +10,10 @@ labels:
   - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<div class="d-flex justify-content-center">
+    <img class="img-fluid" src="../img/TypeScriptImage.jpg" style="width: 300px; height: auto;">
+</div>
+
 
 ## Intro to Typescript
 

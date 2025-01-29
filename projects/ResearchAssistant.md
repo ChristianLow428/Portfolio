@@ -13,8 +13,9 @@ summary: "Assisted in a research project looking at the quality of code produced
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../projects/ChatGPT.jpg" style="width: 300px; height: auto;">
+    <img class="img-fluid" src="../projects/ChatGPT.jpg" style="width: 400px; height: 400px; object-fit: cover;">
 </div>
+
 
 
 The research project focused on evaluating the quality of code produced by Large Language Models (LLMs), such as ChatGPT. The goal was to analyze how well these models generate code, particularly in real-world applications, by extracting code snippets from a repository of ChatGPT conversations. These snippets were then processed and stored in a MySQL database for further analysis. By using Python and pandas, we were able to clean, manipulate, and organize the data to assess factors such as correctness, efficiency, and adherence to coding best practices. The findings were expected to contribute to a deeper understanding of how LLMs perform in generating high-quality code and where improvements may be needed.

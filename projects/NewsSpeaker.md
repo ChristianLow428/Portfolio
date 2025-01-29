@@ -13,8 +13,9 @@ summary: "Raising awareness about disabilities in technology, as demonstrated by
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../projects/NewsSpeaker.png" style="width: 400px; height: auto;">
+    <img class="img-fluid" src="../projects/NewsSpeaker.png" style="width: 400px; height: 400px; object-fit: cover;">
 </div>
+
 
 
 In September 2023, I had the opportunity to speak on Hawaii News Now, where I discussed the pressing issues surrounding disabilities in technology, with a focus on the esports and tech industries. The segment provided a platform to raise awareness about the challenges individuals with disabilities face when navigating these spaces. I highlighted how current technology often overlooks the needs of disabled individuals and emphasized the importance of creating more inclusive solutions. By sharing personal insights and professional perspectives, I aimed to spark a conversation about the need for better accessibility and design in the world of esports, technology, and gaming.

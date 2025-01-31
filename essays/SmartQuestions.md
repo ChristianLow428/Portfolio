@@ -21,8 +21,10 @@ I believe that communication is one of the most vital skills a software engineer
  
 
 ## Smart Question
-This user asks about their program that deletes extra white space from a string. They state, "I wrote this code, which works until I have to change the passed pointer's address to the new string I made in the function. I have read that this it's not possible without making a pointer to a pointer. The problem is, for my assignment, I can't change the argument types." 
 <a href="https://stackoverflow.com/questions/79401708/change-pointer-adress-inside-function-in-c" target="_blank">Change pointer address inside function in C</a>
+<br>
+This user asks about their program that deletes extra white space from a string. They state, "I wrote this code, which works until I have to change the passed pointer's address to the new string I made in the function. I have read that this it's not possible without making a pointer to a pointer. The problem is, for my assignment, I can't change the argument types."
+
 
   
 ## Why it is a Smart Question

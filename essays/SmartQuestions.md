@@ -39,8 +39,8 @@ There isn't too much to go off from this question. The user gives asks the quest
 There are several factors as to why this question is not smart. The user presents a large block of Python/Tkinter/SQLite code but does not demonstrate any debugging attempts. They don't specify any error messages, unexpected behavior details, or steps they've taken to diagnose the problem. When looking closer at the code, there are several flaws in authentication logic, for example, The search() function improperly compares query results, using if username search == Usernametxt: instead of extracting values from the database query. Finally, the question lacks focus and contains too much code to identify the actual problem. It would be better if the user would isolate the login logic and give only the relevant snippets.
 
 ## Final thoughts
+In conclusion, asking smart questions is an essential skill in software engineering. Eric Raymond’s essay, How to Ask Questions the Smart Way, is a good framework for understanding the importance of asking and receiving meaningful answers. The comparison between the two StackOverflow questions displays the key factors that distinguish a well-formed question from a poorly framed one. A smart question is clear, concise, and demonstrates effort, while an ineffective question lacks depth, focus, and problem-solving initiative.
  
-
   
 
 

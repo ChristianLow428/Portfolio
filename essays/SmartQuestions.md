@@ -33,10 +33,11 @@ One of the strongest aspects of this question is its clarity. The user states th
 ## Not so Smart Question
 <a href="https://stackoverflow.com/questions/79400901/why-does-my-code-allow-login-with-an-incorrect-password" target="_blank"> Why does my code allow login with an incorrect password?</a>
 <br>
-There isn't too much to go off from this question. The user gives asks the question, "Why does my code allow login with an incorrect password." They then gives the entire code to and hopes that someone will help them fix the problem. There isn't to much depth or precision behind this forum question.
+There isn't too much to go off from this question. The user gives asks the question, "Why does my code allow login with an incorrect password." They then gives the entire code to and hopes that someone will help them fix the problem. There isn't too much depth or precision behind this forum question.
 
 ## Why it is a Not Smart Question
-  
+There are several factors as to why this question is not smart. The user presents a large block of Python/Tkinter/SQLite code but does not demonstrate any debugging attempts. They don't specify any error messages, unexpected behavior details, or steps they've taken to diagnose the problem. When looking closer at the code, there are several flaws in authentication logic, for example, The search() function improperly compares query results, using if username search == Usernametxt: instead of extracting values from the database query. Finally, the question lacks focus and contains too much code to identify the actual problem. It would be better if the user would isolate the login logic and give only the relevant snippets.
+
 ## Final thoughts
  
 

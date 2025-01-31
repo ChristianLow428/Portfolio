@@ -31,6 +31,9 @@ This user asks about their program that deletes extra white space from a string.
 One of the strongest aspects of this question is its clarity. The user states the goal of removing extra spaces from a string while ensuring that a single space remains between words. They also clearly articulate the challenge: they cannot modify the argument types, which prevents them from using a pointer-to-pointer approach. They don't just state that their code does not work, they also explain why they believe their approach is incorrect. Another reason is that the user provides a full code snippet. So this makes it much easier for others to identify potential errors and offer precise feedback. Finally, this question is genuine and reflects a willingness to learn. The user doesn't post an error message and ask for a direct fix, they attempt to debug their code and reason through their issue logically. The mindset to learn is essential for software engineering. In summary, this is a smart question because it is clear, well-structured, and demonstrates effort, understanding, and a willingness to explore multiple solutions. This type of question reflects the best practices of problem-solving in programming.
 
 ## Not so Smart Question
+<a href="https://stackoverflow.com/questions/79400901/why-does-my-code-allow-login-with-an-incorrect-password" target="_blank"> Why does my code allow login with an incorrect password?</a>
+<br>
+There isn't too much to go off from this question. The user gives asks the question, "Why does my code allow login with an incorrect password." They then gives the entire code to and hopes that someone will help them fix the problem. There isn't to much depth or precision behind this forum question.
 
 ## Why it is a Not Smart Question
   

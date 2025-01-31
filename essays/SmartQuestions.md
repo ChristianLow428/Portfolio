@@ -21,15 +21,17 @@ I believe that communication is one of the most vital skills a software engineer
  
 
 ## Smart Question
-This user asks about their program that deletes extra white space from a string. They state, "I wrote this code, which works until I have to change the passed pointer's address to the new string I made in the function. I have read that this is not possible without making a pointer to a pointer. The problem is, for my assignment, I can't change the argument types."
+This user asks about their program that deletes extra white space from a string. They state, "I wrote this code, which works until I have to change the passed pointer's address to the new string I made in the function. I have read that this it's not possible without making a pointer to a pointer. The problem is, for my assignment, I can't change the argument types." 
 <a href="https://stackoverflow.com/questions/79401708/change-pointer-adress-inside-function-in-c" target="_blank">Change pointer address inside function in C</a>
 
   
-
 ## Why it is a Smart Question
+One of the strongest aspects of this question is its clarity. The user states the goal of removing extra spaces from a string while ensuring that a single space remains between words. They also clearly articulate the challenge: they cannot modify the argument types, which prevents them from using a pointer-to-pointer approach. They don't just state that their code does not work, they also explain why they believe their approach is incorrect. Another reason is that the user provides a full code snippet. So this makes it much easier for others to identify potential errors and offer precise feedback. Finally, this question is genuine and reflects a willingness to learn. The user doesn't post an error message and ask for a direct fix, they attempt to debug their code and reason through their issue logically. The mindset to learn is essential for software engineering.
 
+## Not so Smart Question
+
+## Why it is a Not Smart Question
   
-
 ## Final thoughts
  
 

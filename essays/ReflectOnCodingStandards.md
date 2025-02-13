@@ -4,7 +4,7 @@ type: essay
 title: "Intro to Improving Code Quality"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
-published: false
+published: true
 labels:
   - ES Lint
   - Visual Code Studio

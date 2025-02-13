@@ -12,10 +12,8 @@ labels:
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../img/Screenshot 2025-02-13 at 12.09.42.png at 12.05.35.png" style="width: 300px; height: 300px; object-fit: cover;">
+    <img class="img-fluid" src="../img/Screenshot 2025-02-13 at 12.09.42.png" style="width: 300px; height: 300px; object-fit: cover;">
 </div>
-
-
 
 ## First thoughts on "Coding Standards"
   When I first heard the term "coding standards," I thought it would be about trivial things such as indentation styles, bracket placement, etc. While it may seem like minor details, After working with ESLint for about a week, i've realized coding standards are much more than that. Coding standards are a giode to writing clear, more efficient, and easy to understand code.

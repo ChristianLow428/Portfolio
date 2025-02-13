@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "New Language New Journey"
+title: "Intro to Improving Code Quality"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-25
+date: 2025-02-13
 published: false
 labels:
-  - Intro
-  - Typescript
+  - ES Lint
+  - Visual Code Studio
 ---
 
 <div class="d-flex justify-content-center">
@@ -16,9 +16,9 @@ labels:
 
 
 
-## Intro to Typescript
+## Thoughts on Coding Standards
 
-  Typescript is a completely new language to me. The only languages I was familiar with were C, Java, and Python. I felt that getting used to Typescript wasn't too hard because I'm used to programming languages that use static typing. To learn typescript I tried to go over the FreeCodeCamp assignment we were given in class until I had a basic grasp of typing with it. I also felt that using AI such as ChatGPT and Claude was very useful in my journey learning Typescript because I could use it as a teacher when I needed reminders on things such as how I'm supposed to its operators. Overall, I think Typescript is a great language for someone with prior coding experience. However, I still believe Python is the best language for complete beginners due to its simple syntax and minimal setup requirements.
+  When I first heard the term "coding standards," I thought it would be about trivial things such as indentation styles, bracket placement, etc. While it may seem like minor details, I learned that they are much more than just rules to follow but 
 
 ## The introduction to WODs
 

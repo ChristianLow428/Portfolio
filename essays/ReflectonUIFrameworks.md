@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="..img/v5-new-logo.png" style="width: 300px; height: 300px; object-fit: cover;">
+    <img class="img-fluid" src="../img/v5-new-logo.png" style="width: 300px; height: 300px; object-fit: cover;">
 </div>
 
 ## Introduction: Bootstrap 5

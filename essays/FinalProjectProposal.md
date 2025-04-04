@@ -12,13 +12,16 @@ labels:
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../img/Screenshot 2025-02-13 at 12.09.42.png" style="width: 300px; height: 300px; object-fit: cover;">
+    <img class="img-fluid" src="../img/M1U8-Fig8.9-MagneticCompass.jpg" style="width: 300px; height: 300px; object-fit: cover;">
 </div>
+
+## Contributors
+Christian L, Kawika N, Lenox C, Gunnar L, Ryan T
 
 ## Overview
 
 ### The Problem
-31% of students at UH Manoa are out of state, with 8% being international. For many of these students, it is their first time in Hawaii, and they have no idea what there is to do around campus and in the state itself. Simply searching for things on Google Maps can take time and often leads to minimal activity suggestions. Unfortunately, this results in students feeling isolated and stressed due to a lack of things to do.
+31% of students at UH Manoa are out of state, with 8% being international. For many of these students, it is their first time in Hawaii, and they have no idea what there is to do around campus and in the state itself. Simply searching for things on Google Maps can take time and often leads to minimal activity suggestions. This results in students feeling isolated and stressed due to a lack of things to do.
 
 ### The Solution
 Manoa Compass is a web application that UH Manoa students can log into using their school email. Each student can create a profile that includes their interests, major, hometown, housing details, and transportation options. Using AI, the system will generate a personalized To-Do list to help students discover their favorite spots on the island and engage in activities during their time at UH Manoa.

@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../img/Island Snow.png" style="width: 300px; height: 300px; object-fit: cover;"> 
+    <img class="img-fluid" src="../img/1_iGnDP3sJBudLXohCNuhXlA.png" style="width: 300px; height: 300px; object-fit: cover;"> 
 </div>
 
 ## Introduction: Patterns in the Code
@@ -19,7 +19,7 @@ When I first dipped my toes into coding, everything felt chaotic. Each program w
 ## What Are Design Patterns, Really?
 Design patterns are like life hacks for programmers. They aren’t actual code—they’re reusable solutions that can be applied to recurring problems in software design. Think of them like recipes: they don’t tell you what ingredients to use for every meal, but they do give you a structure that works across different situations.
 
-## Island Snow
+## Island Snow Example
 <div class="d-flex justify-content-center">
     <img class="img-fluid" src="../img/Island Snow.png" style="width: 500px; height: 300px; object-fit: cover;"> 
 </div>

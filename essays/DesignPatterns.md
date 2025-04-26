@@ -1,47 +1,79 @@
 ---
 layout: essay
 type: essay
-title: "How Design Patterns Create Efficiency"
+title: "Manoa Compass Proposal"
 # All dates must be YYYY-MM-DD format!
-date: 2025-04-25
+date: 2025-04-3
 published: true
 labels:
- - Patterns
- - Software Engineering
+  - Final Project
+  - Visual Code Studio
+  - AI
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../img/1_iGnDP3sJBudLXohCNuhXlA.png" style="width: 500px; height: 300px; object-fit: cover;"> 
+    <img class="img-fluid" src="../img/M1U8-Fig8.9-MagneticCompass.jpg" style="width: 300px; height: 300px; object-fit: cover;">
 </div>
 
-## Introduction: Patterns in the Code
-When I first dipped my toes into coding, everything felt chaotic. Each program was a puzzle I had to solve from scratch. I didn’t realize until much later that professional developers don’t reinvent the wheel every time they write code. They use something called design patterns—tried-and-true templates that solve common programming problems. And once I started using them, coding became a whole lot easier (and way less stressful).
+## Contributors
+Christian L, Kawika N, Lenox C, Gunnar L, Ryan T
 
-## What Are Design Patterns, Really?
-Design patterns are like life hacks for programmers. They aren’t actual code—they’re reusable solutions that can be applied to recurring problems in software design. Think of them like recipes: they don’t tell you what ingredients to use for every meal, but they do give you a structure that works across different situations.
+## Overview
 
-## Island Snow Example
-<div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../img/Island Snow.png" style="width: 500px; height: 300px; object-fit: cover;"> 
-</div>
+### The Problem
+31% of students at UH Manoa are out of state, with 8% being international. For many of these students, it is their first time in Hawaii, and they have no idea what there is to do around campus and in the state itself. Simply searching for things on Google Maps can take time and often leads to minimal activity suggestions. This results in students feeling isolated and stressed due to a lack of things to do.
 
-## Strategy Patterns
-In React and Next.js, we break our UI into independent, interchangeable components like TopMenu, MiddleMenu, FooterMenu, etc. This is super similar to the Strategy Pattern—you define a family of interchangeable parts (strategies or components), and you plug them in as needed. If you ever want to swap out the TopMenu for a new version, you just change that one import—no tangled code mess.
+### The Solution
+Manoa Compass is a web application that UH Manoa students can log into using their school email. Each student can create a profile that includes their interests, major, hometown, housing details, and transportation options. Using AI, the system will generate a personalized To-Do list to help students discover their favorite spots on the island and engage in activities during their time at UH Manoa.
 
-## Layout.tsx = Template Method Pattern
-Next.js's layout.tsx acts like the Template Method Pattern. It defines the structure of your page (like including headers, footers, and metadata), and you override or inject content (main) in child pages like page.tsx. The overall skeleton stays the same, just like in the Template Method pattern.
+---
 
-## Factory Pattern in Component Creation
-When you're rendering different components based on props or user interaction, that starts to feel like the Factory Pattern—you encapsulate which component gets created and return it cleanly, rather than using if-else statements all over the place.
+## Mockup Page Ideas
 
-## Cleanup
-When you removed the boilerplate NavBar and Footer from layout.tsx, you were applying Separation of Concerns—a core software principle that most patterns aim to support. Each component should do one thing well, and deleting unused code avoids coupling things that don’t belong together.
+- **Landing Page:** Welcomes visitors and prompts them to log in or sign up with their UH Manoa email.
+- **User Profile Page:** Allows users to input their interests, major, hometown, housing details, and transportation options.
+- **To-Do List Page:** Displays a dynamic, AI-generated list of recommended activities and locations.
+- **(Optional) Explore/Map Page:** Interactive map showcasing recommended spots, with filters based on categories (e.g., food, outdoor, cultural).
 
-## Why it matters
-As a beginner, it’s easy to think “Why bother learning these patterns?” But once projects get even a little complex, design patterns make life so much easier. They help you write code that is modular, maintainable, and scalable—all things I didn’t fully appreciate until I had to go back and fix my own broken code.
+---
 
-Now, if someone asked me in an interview “What are design patterns?” I’d say this: they’re proven solutions to common coding problems that help your code grow without falling apart. And when they ask, “Which ones have you used?” I’d bring up Strategy, Singleton, and Factory—because I’ve seen how they turn chaos into structure.
+## Use Case Ideas
 
-## A Note About AI Use
-This essay was written by me, but I used ChatGPT to help brainstorm, outline ideas, and clean up the wording for clarity and tone. It helped me stay organized and avoid writer’s block while keeping the voice my own. I reviewed everything to make sure it reflects what I’ve actually learned and experienced in class.
-  
+### New User Registration
+1. User lands on the Landing Page and logs in with their UH Manoa email.
+2. After logging in, the user is taken to the User Profile Page to enter personal details (interests, major, hometown, etc.).
+3. The system confirms the profile setup and informs the user that an AI-driven process will generate a personalized to-do list.
+
+### Receiving Personalized Recommendations
+4. After profile completion, the user is redirected to the To-Do List Page, where they see a curated list of activities and destinations around campus and across the island.
+5. The user can click on each recommendation for more details, including location, suggested visit time, and special notes.
+
+### Interaction and Feedback
+6. After visiting a location or trying an activity, the user can leave feedback or rate the experience.
+7. This feedback helps refine future recommendations for the user and others with similar interests.
+
+---
+
+## Beyond the Basics
+
+### Advanced Notification System
+- **Real-Time Alerts:** Send notifications (via email, SMS, or in-app) when new recommendations or nearby events match the user’s profile.
+- **Calendar Integration:** Allow users to add recommended events or activities to their digital calendars (e.g., Google Calendar).
+
+### Social and Community Features
+- **Sharing and Collaboration:** Enable users to share their to-do lists or favorite spots with friends and classmates.
+- **Community Reviews:** Allow users to post reviews or comments on recommended activities to provide insights for peers.
+
+### Enhanced Personalization
+- **Dynamic Updates:** Continuously update recommendations based on user behavior (e.g., frequently visited or highly rated activities).
+- **Interactive Map Integration:** Provide an interactive map view with locations, directions, and contextual information about each spot.
+
+### Administrative and Analytics Tools
+- **User Analytics:** Allow administrators to monitor user engagement and identify trends in activity preferences.
+- **Content Management:** Enable admins to update and curate activities or campus events to keep recommendations relevant and timely.
+
+---
+
+By combining AI-driven personalization with community feedback and robust integration features, **Manoa Compass** aims to transform how students explore their new home, making campus life more engaging and connected from day one.
+
+

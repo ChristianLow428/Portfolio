@@ -4,7 +4,7 @@ type: essay
 title: "Tech Minds Meet Up"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-25
-published: true
+published: false
 labels:
   - Tech Minds Meet Up
   - PACE

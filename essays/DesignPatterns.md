@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../img/Screenshot 2025-02-13 at 12.09.42.png" style="width: 300px; height: 300px; object-fit: cover;">
+    <img class="img-fluid" src="../img/Island Snow.png" style="width: 300px; height: 300px; object-fit: cover;"> 
 </div>
 
 ## Introduction: Patterns in the Code

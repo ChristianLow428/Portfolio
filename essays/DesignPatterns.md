@@ -29,7 +29,7 @@ Design patterns are like life hacks for programmers. They aren’t actual code�
 In React and Next.js, we break our UI into independent, interchangeable components like TopMenu, MiddleMenu, FooterMenu, etc. This is super similar to the Strategy Pattern—you define a family of interchangeable parts (strategies or components), and you plug them in as needed. If you ever want to swap out the TopMenu for a new version, you just change that one import—no tangled code mess.
 
 ## Layout.tsx = Template Method Pattern
-Next.js's layout.tsx acts like the Template Method Pattern. It defines the structure of your page (like including headers, footers, and metadata), and you override or inject content (<main>) in child pages like page.tsx. The overall skeleton stays the same, just like in the Template Method pattern.
+Next.js's layout.tsx acts like the Template Method Pattern. It defines the structure of your page (like including headers, footers, and metadata), and you override or inject content (main) in child pages like page.tsx. The overall skeleton stays the same, just like in the Template Method pattern.
 
 ## Factory Pattern in Component Creation
 When you're rendering different components based on props or user interaction, that starts to feel like the Factory Pattern—you encapsulate which component gets created and return it cleanly, rather than using if-else statements all over the place.

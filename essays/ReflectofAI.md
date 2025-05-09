@@ -54,23 +54,23 @@ I used GitHub Copilot extensively when writing repetitive functions in our proje
 12. Documenting code
 For documentation, I asked ChatGPT, “Write a JS docstring for a function that filters users by role.” The result was well-structured and followed common conventions, which made it easier to maintain clear, consistent comments across our codebase.
 
-13. Quality assurance (e.g., 'What’s wrong with this code <code here>' or 'Fix the ESLint errors in <code here>')
+13. Quality assurance (e.g., 'What’s wrong with this code <code kooooo>' or 'Fix the ESLint errors in <code jkkk >')
 When dealing with ESLint issues, I pasted snippets into ChatGPT and asked, “Fix the ESLint errors in this code.” It usually worked well for basic formatting problems but sometimes introduced changes that didn’t follow our style guide, so I had to review everything before using it.
 
 14. Other uses in ICS 314 not listed
 I also used ChatGPT to create visual metaphors or analogies for explaining difficult topics. For example, I asked: “Explain reactive programming using a kitchen analogy.” The response helped me solidify my mental model and even helped peers understand it better when I shared the metaphor.
 
-III. Impact on Learning and Understanding
+## III. Impact on Learning and Understanding
 AI tools have had a meaningful impact on how I learn. By offering immediate feedback and multiple perspectives on problems, AI enhanced my ability to comprehend challenging topics. However, I also noticed a tendency to rely on AI too early, which sometimes disrupted the deeper learning process. Over time, I learned to balance AI assistance with independent problem-solving. The combination of both improved my coding efficiency, debugging skills, and overall confidence in handling software engineering tasks.
 
 IV. Practical Applications
 Outside of ICS 314, I used AI tools in the HACC (Hawaii Annual Code Challenge) to brainstorm features and debug Firebase issues. For example, in our group project, I used ChatGPT to quickly generate a schema for a Firestore collection based on user input needs. This saved time and helped us maintain momentum. I also used GitHub Copilot when creating REST APIs, where it often correctly predicted route handlers based on comments. These tools proved valuable in real-world settings, especially when working under time constraints.
 
-V. Challenges and Opportunities
-One major challenge with using AI is its unpredictability. Sometimes the solutions were outdated or made assumptions that didn’t match my code context. Another limitation was the temptation to copy solutions instead of fully understanding them. However, AI also presents major opportunities for personalized learning, real-time debugging, and scaffolding for new learners. If integrated wisely, it can enhance both teaching and student outcomes.
+## V. Challenges and Opportunities
+One major challenge with using AI is its unpredictability. Sometimes the solutions were outdated or made assumptions that didn’t match my code context. Another limitation was the temptation to copy solutions instead of fully understanding them. However, AI also presents major opportunities for personalized learning, real-time debugging, and scaffolding for new learners. If integrated correctly into a curriculum, it can enhance both teaching and student outcomes.
 
-VI. Comparative Analysis
-Compared to traditional teaching methods, AI tools offer faster feedback, greater accessibility, and more diverse explanations. However, they lack the personalized mentorship and critical thinking emphasis that in-person instruction provides. AI tools shine when used as supplements—not substitutes—for lectures, peer collaboration, and guided learning. They are especially helpful in reinforcing concepts after class and providing support during solo study.
+## VI. Comparative Analysis
+Compared to traditional teaching methods, AI tools offer faster feedback, greater accessibility, and more diverse explanations. However, they lack the personalized mentorship and critical thinking emphasis that in-person instruction provides. AI tools shine when used as supplements—not substitutes—for lectures, peer collaboration, and guided learning. They are especially helpful in reinforcing concepts after class and providing support during solo study without anyone being able to help at the time.
 
 ## VII. Future Considerations
 In the future, I believe AI will play a larger role in software engineering education. Potential advancements could include AI teaching assistants that monitor student progress and offer personalized practice problems. However, challenges like academic integrity, overreliance, and maintaining deep understanding will need to be addressed. Incorporating AI ethics into the curriculum and teaching students how to use AI responsibly will be essential.

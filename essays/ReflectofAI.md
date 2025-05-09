@@ -14,8 +14,7 @@ labels:
     <img class="img-fluid" src="../img/Screenshot 2025-02-13 at 12.09.42.png" style="width: 300px; height: 300px; object-fit: cover;">
 </div>
 
-## Education: A Reflection
-I. Introduction
+## I. Introduction
 Artificial Intelligence (AI) is rapidly transforming the landscape of education, particularly in fields like Software Engineering where automation, optimization, and intelligent assistance can directly influence how students learn and build software. AI tools such as ChatGPT, Claude, and Cursor have become increasingly relevant by offering real-time code suggestions, explanations, and debugging support. In ICS 314, I have made use of ChatGPT and Cursor AI to assist me in understanding programming concepts, generating code snippets, and refining my problem-solving approaches. These tools have complemented the curriculum by enhancing how I interact with code and how I grasp software engineering principles.
 
 II. Personal Experience with AI

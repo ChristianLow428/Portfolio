@@ -54,7 +54,7 @@ I used GitHub Copilot extensively when writing repetitive functions in our proje
 12. Documenting code
 For documentation, I asked ChatGPT, “Write a JS docstring for a function that filters users by role.” The result was well-structured and followed common conventions, which made it easier to maintain clear, consistent comments across our codebase.
 
-13. Quality assurance (e.g., 'What’s wrong with this code <code kooooo>' or 'Fix the ESLint errors in <code jkkk >')
+13. Quality assurance (e.g., 'What’s wrong with this code  or 'Fix the ESLint errors in 
 When dealing with ESLint issues, I pasted snippets into ChatGPT and asked, “Fix the ESLint errors in this code.” It usually worked well for basic formatting problems but sometimes introduced changes that didn’t follow our style guide, so I had to review everything before using it.
 
 14. Other uses in ICS 314 not listed

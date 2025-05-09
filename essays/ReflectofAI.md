@@ -17,7 +17,7 @@ labels:
 ## I. Introduction
 Artificial Intelligence (AI) is rapidly transforming the landscape of education, particularly in fields like Software Engineering where automation, optimization, and intelligent assistance can directly influence how students learn and build software. AI tools such as ChatGPT, Claude, and Cursor have become increasingly relevant by offering real-time code suggestions, explanations, and debugging support. In ICS 314, I have made use of ChatGPT and Cursor AI to assist me in understanding programming concepts, generating code snippets, and refining my problem-solving approaches. These tools have complemented the curriculum by enhancing how I interact with code and how I grasp software engineering principles.
 
-II. Personal Experience with AI
+## II. Personal Experience with AI
 1. Experience WODs (e.g., E18)
 For the E18 WOD, which focused on implementing a Meteor-based form, I used ChatGPT to ask: “How do I create a reactive form using Meteor and Semantic UI?” The response gave me a rough structure, including use of AutoForm and SimpleSchema. While the generated solution wasn’t a perfect fit, it gave me a helpful starting point and increased my confidence in tackling the problem. However, I still needed to adjust the code significantly to align it with the specific requirements of the WOD.
 
@@ -72,8 +72,8 @@ One major challenge with using AI is its unpredictability. Sometimes the solutio
 VI. Comparative Analysis
 Compared to traditional teaching methods, AI tools offer faster feedback, greater accessibility, and more diverse explanations. However, they lack the personalized mentorship and critical thinking emphasis that in-person instruction provides. AI tools shine when used as supplements—not substitutes—for lectures, peer collaboration, and guided learning. They are especially helpful in reinforcing concepts after class and providing support during solo study.
 
-VII. Future Considerations
+## VII. Future Considerations
 In the future, I believe AI will play a larger role in software engineering education. Potential advancements could include AI teaching assistants that monitor student progress and offer personalized practice problems. However, challenges like academic integrity, overreliance, and maintaining deep understanding will need to be addressed. Incorporating AI ethics into the curriculum and teaching students how to use AI responsibly will be essential.
 
-VIII. Conclusion
+## VIII. Conclusion
 Overall, AI has been a powerful companion in my journey through ICS 314. It helped me write, debug, understand, and document code more effectively. While it is not a replacement for human instruction or effort, it offers tremendous potential when used mindfully. I recommend that future courses continue to embrace AI—but with strong guidance to ensure that students remain actively engaged in their learning process.

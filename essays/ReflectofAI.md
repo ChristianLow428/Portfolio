@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../img/ai-graphic-design-vector-art-1024x768.webp" style="width: 300px; height: 300px; object-fit: cover;">
+    <img class="img-fluid" src="../img/ai-graphic-design-vector-art-1024x768.webp" style="width: 500; height: 300px; object-fit: cover;">
 </div>
 
 ## I. Introduction
@@ -30,35 +30,32 @@ During timed in-class WODs, I still used Cursor AI, but much more sparingly. I w
 ## 4. Essays
 For writing essays, especially the ethical reflection essay, I used ChatGPT to help brainstorm ideas. I prompted it with: “Give me arguments for and against ethical considerations in open-source software.” While the response gave me a broad overview, I had to do more specific research and write the essay myself. ChatGPT helped get past the initial writer’s block but was not useful for detailed course-specific arguments.
 
-## 4. Final Project
+## 5. Final Project
 While building the final project, I used Cursor AI to help speed up the debugging process For example, Cursor would highlight errors like "too many blank lines," "missing semicolons," or "improper indentation," and automatically suggest changes that conformed to the ESLint rules. In some cases, it even helped restructure my import statements or convert function components to arrow functions if that better fit the project’s style. Although it made the process faster, I still made sure to review each suggested change to understand what was wrong and why the fix worked. This helped reinforce clean coding habits while also teaching me how to recognize and resolve linting issues manually in the future.
 
-## 5. Learning a concept / tutorial
+## 6. Learning a concept / tutorial
 While following a tutorial to clone and set up the nextjs-application-template from GitHub, I encountered a few steps I wasn’t completely confident about—like understanding the difference between cloning a repository versus forking, or how to set up a remote and push to my own repo. I used Cursor AI to clarify these concepts directly in VSCode. For example, when I typed a comment like // How do I push my local code to GitHub?, Cursor suggested the exact Git commands I needed: git remote add origin https://github.com/my-username/islandsnow-nextjs.git and git push -u origin main.
-
-## 6. Answering or Asking a Smart Question
-One moment where I needed to ask a smart question was while porting components from a React app into a Next.js project. I was unsure whether to use .jsx or .tsx for my component files, especially since the Next.js template was written in TypeScript. I didn’t want to ask a vague question like “Which one should I use?” Instead, I refined my question to: “What are the advantages of using .tsx files in a Next.js project when migrating components originally written in plain React?” Before asking this in class or on Discord, I used Cursor AI to explore the issue further. I typed my question directly in a comment block, and Cursor responded with a concise explanation that .tsx allows for type safety and better developer tooling in TypeScript environments. It also suggested how to gradually convert .jsx to .tsx by adding basic props typing.
 
 ## 7. Answering a question in class or in Discord
 I occasionally used AI to fact-check my responses before answering a question. For instance, when someone asked about the purpose of npm run dev, I confirmed my answer by asking ChatGPT for a brief definition. This gave me more confidence that I was sharing accurate information.
 
-8. Asking or answering a smart-question
-Before asking a smart question in class, I sometimes used ChatGPT to refine how I was framing the issue. For example, I typed: “How do I word a question about Meteor’s asynchronous data loading affecting component rendering?” This helped me clarify what I was struggling with and ask a more precise question during office hours.
+## 8. Asking or Answering a Smart Question
+One moment where I needed to ask a smart question was while porting components from a React app into a Next.js project. I was unsure whether to use .jsx or .tsx for my component files, especially since the Next.js template was written in TypeScript. I didn’t want to ask a vague question like “Which one should I use?” Instead, I refined my question to: “What are the advantages of using .tsx files in a Next.js project when migrating components originally written in plain React?” Before asking this in class or on Discord, I used Cursor AI to explore the issue further. I typed my question directly in a comment block, and Cursor responded with a concise explanation that .tsx allows for type safety and better developer tooling in TypeScript environments. It also suggested how to gradually convert .jsx to .tsx by adding basic props typing.
 
-9. Coding example (e.g., 'give an example of using Underscore .pluck')
+## 9. Coding example (e.g., 'give an example of using Underscore .pluck')
 When reviewing functional programming, I asked ChatGPT, “Give an example of using underscore.js .pluck with an array of objects.” It generated a working example that demonstrated the core functionality. This was particularly useful for quickly visualizing how a method worked before I used it in a WOD.
 
-10. Explaining code
-While reviewing past code, I sometimes used ChatGPT to help me understand unfamiliar lines. For example, I input: “What does this line of code mean in JavaScript: items.map(item => item.name)?” The explanation helped reinforce my understanding of arrow functions and mapping over arrays.
+## 10. Explaining code
+While reviewing past code, I sometimes used ChatGPT to help me understand unfamiliar lines. For example, I input: “What does this line of code mean in JavaScript: items.map(item => item.name)? Help me understand step by step.” The explanation helped my understanding of arrow functions and mapping over arrays.
 
-11. Writing code
-I used GitHub Copilot extensively when writing repetitive functions in our project. For instance, while writing form validation methods, Copilot often completed my if statements and return lines correctly. It boosted my efficiency but also sometimes generated incorrect assumptions, requiring me to stay alert and correct those.
+## 11. Writing code
+During front-end development, I focused on creating clean, responsive user interfaces using Bootstrap 5 components. This included structuring navigation menus, layout containers, buttons, and icons in a consistent and visually appealing way. Understanding how Bootstrap’s grid system worked—along with utility classes like d-flex, justify-content-center, and text-light—helped me build interfaces faster and more efficiently. Although the AI made building UI components quicker, I still needed to understand why I was using certain Bootstrap classes, how they interacted with React components, and what changes would impact responsiveness. 
 
-12. Documenting code
-For documentation, I asked ChatGPT, “Write a JS docstring for a function that filters users by role.” The result was well-structured and followed common conventions, which made it easier to maintain clear, consistent comments across our codebase.
+## 12. Documenting code
+For my final project, I used ChatGPT to generate clear and consistent JS docstrings for the functions I wrote. This was especially helpful when working in a team, since it made my code easier for others to read and understand. For example, when I created a function to filter users by role, I asked ChatGPT to generate a proper docstring, and it returned a well-formatted explanation of the parameters and return value. This made team collaboration smoother and helped us maintain readable, professional code.
 
-13. Quality assurance (e.g., 'What’s wrong with this code  or 'Fix the ESLint errors in 
-When dealing with ESLint issues, I pasted snippets into ChatGPT and asked, “Fix the ESLint errors in this code.” It usually worked well for basic formatting problems but sometimes introduced changes that didn’t follow our style guide, so I had to review everything before using it.
+## 13. Quality assurance (e.g., 'What’s wrong with this code  or 'Fix the ESLint errors in 
+When dealing with ESLint issues, I pasted snippets into Cursor AI and asked, “Fix the ESLint errors in this code.” It usually worked well for basic formatting problems but sometimes introduced changes that didn’t follow our style guide, so I had to review everything before using it. it was a good lesson that I had to understand what I was fixing before actually giving it to AI.
 
 14. Other uses in ICS 314 not listed
 I also used ChatGPT to create visual metaphors or analogies for explaining difficult topics. For example, I asked: “Explain reactive programming using a kitchen analogy.” The response helped me solidify my mental model and even helped peers understand it better when I shared the metaphor.
@@ -66,8 +63,8 @@ I also used ChatGPT to create visual metaphors or analogies for explaining diffi
 ## III. Impact on Learning and Understanding
 AI tools have had a meaningful impact on how I learn. By offering immediate feedback and multiple perspectives on problems, AI enhanced my ability to comprehend challenging topics. However, I also noticed a tendency to rely on AI too early, which sometimes disrupted the deeper learning process. Over time, I learned to balance AI assistance with independent problem-solving. The combination of both improved my coding efficiency, debugging skills, and overall confidence in handling software engineering tasks.
 
-IV. Practical Applications
-Outside of ICS 314, I used AI tools in the HACC (Hawaii Annual Code Challenge) to brainstorm features and debug Firebase issues. For example, in our group project, I used ChatGPT to quickly generate a schema for a Firestore collection based on user input needs. This saved time and helped us maintain momentum. I also used GitHub Copilot when creating REST APIs, where it often correctly predicted route handlers based on comments. These tools proved valuable in real-world settings, especially when working under time constraints.
+## IV. Practical Applications
+One important way I engaged with AI in ICS 314 was by reflecting on its ethical use. I made a conscious effort to use tools like Cursor AI and ChatGPT as learning aids rather than shortcuts. For example, I avoided copy-pasting entire solutions and instead used AI suggestions to understand concepts, debug issues, or improve clarity in my code. This approach helped me stay aligned with the spirit of academic integrity while still benefiting from AI’s support in learning and development.
 
 ## V. Challenges and Opportunities
 One major challenge with using AI is its unpredictability. Sometimes the solutions were outdated or made assumptions that didn’t match my code context. Another limitation was the temptation to copy solutions instead of fully understanding them. However, AI also presents major opportunities for personalized learning, real-time debugging, and scaffolding for new learners. If integrated correctly into a curriculum, it can enhance both teaching and student outcomes.

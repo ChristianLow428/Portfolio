@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "AI not just a crutch"
+title: "AI: Not a Crutch but a Valuable Tool"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-13
+date: 2025-05-11
 published: true
 labels:
   - AI
-  - WOD
+  - Experiences
 ---
 
 <div class="d-flex justify-content-center">
@@ -18,26 +18,29 @@ labels:
 Artificial Intelligence (AI) is rapidly transforming the landscape of education, particularly in fields like Software Engineering where automation, optimization, and intelligent assistance can directly influence how students learn and build software. AI tools such as ChatGPT, Claude, and Cursor have become increasingly relevant by offering real-time code suggestions, explanations, and debugging support. In ICS 314, I have made use of ChatGPT and Cursor AI to assist me in understanding programming concepts, generating code snippets, and refining my problem-solving approaches. These tools have complemented the curriculum by enhancing how I interact with code and how I grasp software engineering principles.
 
 ## II. Personal Experience with AI
-1. Experience WODs (e.g., E18)
-For the E18 WOD, which focused on implementing a Meteor-based form, I used ChatGPT to ask: “How do I create a reactive form using Meteor and Semantic UI?” The response gave me a rough structure, including use of AutoForm and SimpleSchema. While the generated solution wasn’t a perfect fit, it gave me a helpful starting point and increased my confidence in tackling the problem. However, I still needed to adjust the code significantly to align it with the specific requirements of the WOD.
+1. Experience WODs 
+WOD experience involved setting up a Next.js development environment using the nextjs-application-template. I began by going to the GitHub repository and using the “Use this template” feature to create a new private repository named islandsnow-nextjs. For the E45 WOD, Once I had the files locally, I used the terminal to navigate into the project directory and ran npm install to install all necessary third-party libraries. Then, I started the development server using npm run dev. I opened a browser and visited https://localhost:3000 to confirm the application was working correctly. I used AI to clarify instructions from the walkthrough and double-check each terminal command before executing it. For example, I wasn’t initially sure where to run npm install or how to verify whether everything installed correctly, so I asked the AI to explain what to expect from the command output. 
 
-2. In-class Practice WODs
-During practice WODs, I used GitHub Copilot in VSCode. For example, while building a component to display user profiles, Copilot would automatically suggest function names and complete map() calls for lists. These suggestions often saved time, although I sometimes had to verify correctness and ensure the code matched class guidelines and best practices.
+## 2. In-class Practice WODs
+During practice WODs, I used Claude AI. One important part of these practice WODs was developing a basic understanding of why we use certain tools, like Bootstrap 5 elements. Cursor could help with the syntax, but I still had to understand what different components like Container, Navbar, Nav.Link, and Dropdown actually do and how they contribute to responsive, consistent UI design. Using Bootstrap 5 in class exercises helped me see how it abstracts away a lot of the styling work, letting me focus on structure and layout without writing all the CSS from scratch.
 
-3. In-class WODs
-For timed in-class WODs, I chose not to use AI tools. I wanted to test my raw understanding of the concepts under pressure, and using AI felt like it would defeat the purpose of the exercise. This decision helped me evaluate my readiness and strengthened my problem-solving skills without external aid.
+## 3. In-class WODs
+During timed in-class WODs, I still used Cursor AI, but much more sparingly. I wanted to challenge myself to solve problems using my own understanding and logic, especially under time pressure. While AI was available, I made a conscious effort not to depend on it, so that I could accurately evaluate my readiness and knowledge of the concepts. If I used Cursor during these sessions, it was only for quick syntax checks or to confirm my thought process. This approach helped me balance the benefits of AI with the importance of mastering the material on my own.
 
-4. Essays
+## 4. Essays
 For writing essays, especially the ethical reflection essay, I used ChatGPT to help brainstorm ideas. I prompted it with: “Give me arguments for and against ethical considerations in open-source software.” While the response gave me a broad overview, I had to do more specific research and write the essay myself. ChatGPT helped get past the initial writer’s block but was not useful for detailed course-specific arguments.
 
-5. Final Project
-While building the final project, I used ChatGPT to help troubleshoot a bug in our Meteor server method. I asked, “Why does Meteor method throw unauthorized error when user is logged in?” The AI pointed me toward checking this.userId, which helped us resolve the issue quickly. In this case, AI was very helpful in narrowing down the root cause and saved valuable debugging time.
+## 4. Final Project
+While building the final project, I used Cursor AI to help speed up the debugging process For example, Cursor would highlight errors like "too many blank lines," "missing semicolons," or "improper indentation," and automatically suggest changes that conformed to the ESLint rules. In some cases, it even helped restructure my import statements or convert function components to arrow functions if that better fit the project’s style. Although it made the process faster, I still made sure to review each suggested change to understand what was wrong and why the fix worked. This helped reinforce clean coding habits while also teaching me how to recognize and resolve linting issues manually in the future.
 
-6. Learning a concept / tutorial
-When I was learning about reactive variables and session state, I used ChatGPT to ask: “What is the difference between ReactiveVar and Session in Meteor?” The explanation was clear and concise, which improved my understanding beyond what was covered in the tutorial videos.
+## 5. Learning a concept / tutorial
+While following a tutorial to clone and set up the nextjs-application-template from GitHub, I encountered a few steps I wasn’t completely confident about—like understanding the difference between cloning a repository versus forking, or how to set up a remote and push to my own repo. I used Cursor AI to clarify these concepts directly in VSCode. For example, when I typed a comment like // How do I push my local code to GitHub?, Cursor suggested the exact Git commands I needed: git remote add origin https://github.com/my-username/islandsnow-nextjs.git and git push -u origin main.
 
-7. Answering a question in class or in Discord
-I occasionally used AI to fact-check my responses before posting in Discord. For instance, when someone asked about the purpose of Meteor.publish, I confirmed my answer by asking ChatGPT for a brief definition. This gave me more confidence that I was sharing accurate information.
+## 6. Answering or Asking a Smart Question
+One moment where I needed to ask a smart question was while porting components from a React app into a Next.js project. I was unsure whether to use .jsx or .tsx for my component files, especially since the Next.js template was written in TypeScript. I didn’t want to ask a vague question like “Which one should I use?” Instead, I refined my question to: “What are the advantages of using .tsx files in a Next.js project when migrating components originally written in plain React?” Before asking this in class or on Discord, I used Cursor AI to explore the issue further. I typed my question directly in a comment block, and Cursor responded with a concise explanation that .tsx allows for type safety and better developer tooling in TypeScript environments. It also suggested how to gradually convert .jsx to .tsx by adding basic props typing.
+
+## 7. Answering a question in class or in Discord
+I occasionally used AI to fact-check my responses before answering a question. For instance, when someone asked about the purpose of npm run dev, I confirmed my answer by asking ChatGPT for a brief definition. This gave me more confidence that I was sharing accurate information.
 
 8. Asking or answering a smart-question
 Before asking a smart question in class, I sometimes used ChatGPT to refine how I was framing the issue. For example, I typed: “How do I word a question about Meteor’s asynchronous data loading affecting component rendering?” This helped me clarify what I was struggling with and ask a more precise question during office hours.

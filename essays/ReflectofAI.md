@@ -19,7 +19,8 @@ Artificial Intelligence (AI) is rapidly transforming the landscape of education,
 
 ## II. Personal Experience with AI
 
-1. Experience WODs 
+
+## 1. Experience WODs 
 WOD experience involved setting up a Next.js development environment using the nextjs-application-template. I began by going to the GitHub repository and using the “Use this template” feature to create a new private repository named islandsnow-nextjs. For the E45 WOD, Once I had the files locally, I used the terminal to navigate into the project directory and ran npm install to install all necessary third-party libraries. Then, I started the development server using npm run dev. I opened a browser and visited https://localhost:3000 to confirm the application was working correctly. I used AI to clarify instructions from the walkthrough and double-check each terminal command before executing it. For example, I wasn’t initially sure where to run npm install or how to verify whether everything installed correctly, so I asked the AI to explain what to expect from the command output. 
 
 ## 2. In-class Practice WODs

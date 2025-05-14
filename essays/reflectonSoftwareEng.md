@@ -1,17 +1,17 @@
 ---
 layout: essay
 type: essay
-title: "New Language New Journey"
+title: "Beyond the Browser"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-25
+date: 2025-5-14
 published: true
 labels:
-  - Intro
-  - Typescript
+  - Final
+  - ESLint
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../img/TypeScriptImage.jpg" style="width: 300px; height: 300px; object-fit: cover;">
+    <img class="img-fluid" src="../img/Software-Engineering-BS-1200x675_123.jpg" style="width: 500px; height: 300px; object-fit: cover;">
 </div>
 
 
@@ -20,7 +20,7 @@ labels:
 
 As I near the end of ICS 314, I’ve come to realize that this course is far more than just an introduction to building web applications. Yes, I’ve gained valuable technical skills—learning how to develop with TypeScript, manage projects with GitHub, and build responsive interfaces with Bootstrap and Next.js. But beneath the code and design patterns, this course has given me a foundation in software engineering as a discipline. In this essay, I’ll reflect on three core topics that stood out to me—Open Source Software Development, User Interface Frameworks, and Ethics in Software Engineering—and discuss how each of them applies far beyond the scope of web development.
 
-Open Source Software Development: Learning to Build in Public
+## Open Source Software Development: Learning to Build in Public
 
 One of the most transformative experiences in this course was engaging with Open Source Software Development (OSS). At its core, OSS refers to software whose source code is freely available for anyone to view, use, modify, and distribute. It encourages collaboration, transparency, and community-driven improvement. Through our coursework and technical essays, I learned that OSS is more than just free code—it’s a way of thinking about software as a shared resource.
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Hawaii News Now.jpg
+image: img/img/Screenshot 2025-05-14 at 20.19.02.png
 title: "Manoa Compass"
 date: 2025-5-14
 published: true

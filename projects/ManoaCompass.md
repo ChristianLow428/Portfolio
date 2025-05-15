@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2025-05-14 at 20.19.02.png
+image: img/Manoa-compass.jpg
 title: "Manoa Compass"
 date: 2025-5-14
 published: true
@@ -13,7 +13,7 @@ summary: "Manoa Compass, through the SCEN system, provides a scalable solution t
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../img/Screenshot_2025-05-14_20.19.02.png" style="width: 500px; height: 300px; object-fit: cover;">
+    <img class="img-fluid" src="../img/Manoa-compass.jpg" style="width: 500px; height: 300px; object-fit: cover;">
 </div>
 
 ## Completing the Manoa Compass Project

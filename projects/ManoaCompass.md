@@ -16,7 +16,7 @@ summary: "Manoa Compass, through the SCEN system, provides a scalable solution t
     <img class="img-fluid" src="../img/Screenshot_2025-05-14_20.19.02.png" style="width: 500px; height: 300px; object-fit: cover;">
 </div>
 
-##  Completing the Manoa Compass Project
+## Completing the Manoa Compass Project
 The Manoa Compass project began as a proposal to help students at the University of Hawai‘i at Mānoa feel more connected to their campus and community. Originally envisioned as a tool for helping out-of-state and international students explore activities around the island, the project evolved into a more focused, actionable solution: the Smart Campus Events Notifier (SCEN). SCEN is a web application that allows students to create personalized profiles and receive automatic notifications about campus events aligned with their interests, using AI to analyze event descriptions and deliver relevant recommendations.
 This shift enabled us to build a functioning and impactful solution within the scope of ICS 314, while staying true to the spirit of Manoa Compass—supporting students through connection, engagement, and exploration.
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/img/Screenshot 2025-05-14 at 20.19.02.png
+image: img
 title: "Manoa Compass"
 date: 2025-5-14
 published: true

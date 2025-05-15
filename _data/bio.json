@@ -33,13 +33,13 @@
   },
   "interests": [
     { "name": "Interactive AI" },
-    { "name": "Software Development" },
+    { "name": "Software Engineering" },
     { "name": "Cybersecurity" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["C", "Java", "JavaScript"]
+      "keywords": ["C", "Java", "JavaScript, Python"]
     }
   ],
   "education": [

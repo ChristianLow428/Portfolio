@@ -24,9 +24,4 @@ The research project focused on evaluating the quality of code produced by Large
 ## My Role
 In this project, I was responsible for the data extraction and processing tasks. I used Python scripts to access the repository of ChatGPT conversations and employed pandas to manage and clean the data. Once the code snippets were prepared, I stored them in a MySQL database for easy querying and future analysis. My work involved ensuring the data was properly formatted and organized to support the subsequent evaluation of code quality. Through this experience, I learned a great deal about the intricacies of data handling, the importance of clean and structured data for research, and how LLM-generated code can be evaluated systematically. Additionally, I gained valuable insights into the challenges and opportunities in working with large datasets in the context of AI and machine learning research.
 
-<div class="repository-link">
-    <p>Access the raw JSON file from the project repository:</p>
-    <a href="https://raw.githubusercontent.com/iSQARE-Lab/chatgpt-code-analysis/refs/heads/main/20230727_195816_hn_sharings.json?token=GHSAT0AAAAAAC5YB7RDXQ4HXQU2O6RC6LFMZ42H7YA" target="_blank">
-        Download the JSON file
-    </a>
-</div>
+

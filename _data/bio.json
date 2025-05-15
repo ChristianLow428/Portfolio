@@ -14,9 +14,21 @@
       "region": "Hawaii"
     },
     "profiles": [
-      { "network": "github", "username": "ChristianLow428", "url": "http://github.com/ChristianLow428" },
-      { "network": "linkedin", "username": "Christian Low", "url": "http://linkedin.com/in/christian-low428" },
-      { "network": "instagram", "username": "_smallleft_", "url": "https://www.instagram.com/_smallleft_/" }
+      {
+        "network": "github",
+        "username": "ChristianLow428",
+        "url": "http://github.com/ChristianLow428"
+      },
+      {
+        "network": "linkedin",
+        "username": "Christian Low",
+        "url": "http://linkedin.com/in/christian-low428"
+      },
+      {
+        "network": "instagram",
+        "username": "_smallleft_",
+        "url": "https://www.instagram.com/_smallleft_/"
+      }
     ]
   },
   "interests": [
@@ -46,7 +58,7 @@
       "startDate": "2023-10-01",
       "endDate": "2024-01-15",
       "highlights": [
-        "Assisted in a research project using Python and pandas and MySQL database",
+        "Assisted in a research project using Python and pandas and MySQL database"
       ]
     }
   ],
@@ -54,19 +66,21 @@
     {
       "organization": "Purple Maiʻa",
       "position": "Software Engineering Intern",
-      "startDate": "2025-5-1",
+      "startDate": "2025-05-01",
       "endDate": "Present",
       "summary": "Hawaiian institution that sets the standard for excellence in education, innovation, and entrepreneurship in service of land and people.",
       "highlights": [
-        "Working on Personal, and Group Projects",
-      {
+        "Working on Personal, and Group Projects"
+      ]
+    },
+    {
       "organization": "UH Esports",
       "position": "Professional Esports",
       "startDate": "2023-10-10",
       "endDate": "Present",
       "summary": "Competition in both Overwatch and Super Smash Bros. Ultimate",
       "highlights": [
-        "Traveling to across states to represent UHEsports",
+        "Traveling across states to represent UHEsports"
       ]
     }
   ]

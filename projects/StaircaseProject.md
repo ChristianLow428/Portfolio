@@ -4,7 +4,7 @@ type: project
 image: img/staircase.jpg
 title: "Staircase Project"
 date: 2024
-published: true
+published: false
 labels:
   - C
   - Personal Project

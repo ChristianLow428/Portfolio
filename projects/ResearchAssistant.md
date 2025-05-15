@@ -9,6 +9,7 @@ labels:
   - Research
   - GitHub
   - Python
+
 summary: "Assisted in a research project looking at the quality of code produced by LLMs by extracting code snippets from a repository of ChatGPT conversations using Python and pandas and storing them in a MySQL database"
 ---
 

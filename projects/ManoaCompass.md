@@ -13,7 +13,7 @@ summary: "Manoa Compass, through the SCEN system, provides a scalable solution t
 ---
 
 <div class="d-flex justify-content-center">
-    <img class="img-fluid" src="../projects/NewsSpeaker.png" style="width: 300px; height: 300px; object-fit: cover;">
+    <img class="img-fluid" src="../img/Screenshot 2025-05-14 at 20.19.02.png" style="width: 500px; height: 300px; object-fit: cover;">
 </div>
 
 ##  Completing the Manoa Compass Project
